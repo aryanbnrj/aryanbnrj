@@ -1,4 +1,4 @@
-![logo](https://github.com/aryanbnrj/aryanbnrj/blob/main/Github_banner)
+![logo](https://github.com/aryanbnrj/aryanbnrj/blob/main/Github.banner)
 <h1 align="center">Hi 👋, I'm Aryan Banarjee</h1>
 <h3 align="center">A Tech Whiz from India</h3>
 
